@@ -1,0 +1,42 @@
+12/01/26, 9:02 pm - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+12/01/26, 9:02 pm - Rohan created group "CSE Placement Prep 🚀"
+12/01/26, 9:03 pm - Rohan added you
+12/01/26, 9:05 pm - Rohan: Guys TCS NQT registration is open
+12/01/26, 9:05 pm - Rohan: Last date 25th Jan
+12/01/26, 9:07 pm - Simran: Thanks for the info!
+12/01/26, 9:10 pm - Jaskaran: registered ✅
+12/01/26, 9:12 pm - Amit: <Media omitted>
+12/01/26, 9:13 pm - Amit: syllabus pdf, check it out
+12/01/26, 9:45 pm - Simran: Anyone has notes for aptitude?
+Specifically time and work
+and percentages
+12/01/26, 10:01 pm - Jaskaran: I have R.S. Aggarwal solutions
+will share tomorrow
+13/01/26, 8:15 am - Rohan: Good morning, mock test at 6 pm today
+13/01/26, 8:20 am - Amit: This message was deleted
+13/01/26, 6:05 pm - Simran: link?
+13/01/26, 6:06 pm - Rohan: https://mocktest.example.com/tcs-nqt-1
+13/01/26, 6:45 pm - Jaskaran: scored 78 in numerical 😅
+13/01/26, 6:47 pm - Amit: 82 here
+13/01/26, 6:50 pm - Simran: 91 🎯
+13/01/26, 6:52 pm - Rohan: Simran carrying the group as usual
+14/01/26, 11:30 pm - Amit: anyone up? doubt in DP
+14/01/26, 11:32 pm - Jaskaran: yeah go ahead
+14/01/26, 11:33 pm - Amit: climbing stairs problem
+why do we add dp[i-1] and dp[i-2]
+14/01/26, 11:36 pm - Jaskaran: because you can reach step i either from i-1 (one step) or i-2 (two steps)
+total ways = sum of both
+14/01/26, 11:38 pm - Amit: ohhh makes sense now, thanks bro 🙏
+15/01/26, 7:00 pm - Rohan: <Media omitted>
+15/01/26, 7:01 pm - Rohan: coding sheet for this week
+15/01/26, 7:30 pm - Simran: done with arrays already 💪
+16/01/26, 9:15 am - Amit changed the subject from "CSE Placement Prep 🚀" to "CSE Placement Prep 2027 🚀"
+18/01/26, 5:20 pm - Jaskaran: guys KMP algorithm is confusing
+18/01/26, 5:24 pm - Simran: watch Abdul Bari's video
+best explanation
+18/01/26, 5:25 pm - Simran: <Media omitted>
+18/01/26, 5:40 pm - Jaskaran: watching now
+19/01/26, 8:00 pm - Rohan: mock test 2 tomorrow 6 pm
+19/01/26, 8:02 pm - Amit: 👍
+19/01/26, 8:02 pm - Simran: 👍
+19/01/26, 8:05 pm - Jaskaran: ready
